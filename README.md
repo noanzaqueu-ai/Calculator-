@@ -1,6 +1,6 @@
 # 🧮 Scientific Calculator in Python
 
-A complete scientific calculator built in pure Python, running via command line (CLI). It performs basic operations and advanced mathematical functions with full error handling.
+Complete scientific calculator built in pure Python, running via command line (CLI). It performs basic operations and advanced mathematical functions with full error handling.
 
 ---
 
